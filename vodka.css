@@ -3,13 +3,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 h1{
-    font: Roboto Slab;
-    font-weight: 700;
-    size: 80px;
-    margin-left: 22px;
-    margin-top: 48px;
-    margin-right: 690px;
-    margin-bottom: 16px;
+    font-family: Roboto Slab;
+    Font-style: bold;
+    Font-size: 80px;
+    line-height: 81px;
+    line-height: 101%;
+    box-align: Left;
+    vertical-align: top;
 }
 .sus{
     padding-left: 890px;
@@ -39,3 +39,4 @@ footer{
     width: 1440px;
     height: 390px;
 }
+
