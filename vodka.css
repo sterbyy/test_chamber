@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font: Roboto Slab;
+    font-weight: 700;
+    size: 80px;
+    margin-left: 22px;
+    margin-top: 48px;
+    margin-right: 690px;
+    margin-bottom: 16px;
+}
+.sus{
+    padding-left: 890px;
+    padding-right: 246px;
+}
+b{
+    font: Roboto;
+    margin-top: 187px;
+}
+.citate{
+    color: white;
+    background-color: #1E4681;
+    width: 484px;
+    height: 200px;
+    margin-top: 66px;
+    margin-left: 410px;
+    margin-bottom: 157px;
+    margin-right: 54px;
+}
+h2{
+    font-style: Roboto;
+    font-size: 700;
+    size: 1000px;
+}
+footer{
+    background-color: #9DC9C8;
+    width: 1440px;
+    height: 390px;
+}
