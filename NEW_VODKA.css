@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{width: 200px;
+    font-family: Roboto Slab;
+    Font-style: bold;
+    Font-size: 80px;
+    line-height: 81px;
+    line-height: 101%;
+    box-align: Left;
+    vertical-align: top;
+}
+.h1{
+    font: 900;
+    width: 500px;
+    height: auto;
+    size: 500px;
+}
+b{
+    width: 150px;
+    height: 100px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.png{
+    margin-left: 300px;
+}
+.citate{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #1E4681;
+    width: 484px;
+    height: 200px;
+    margin-top: 66px;
+    margin-left: 410px;
+    margin-bottom: 157px;
+    margin-right: 54px;
+    border-radius: 15px;
+}
+h2{
+    font-style: Roboto;
+    font-size: 700;
+    size: 1000px;
+}
+footer{
+    background-color: #9DC9C8;
+    width: 1440px;
+    height: 390px;
+}
