@@ -2,7 +2,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-h1{
+h1{width: 200px;
     font-family: Roboto Slab;
     Font-style: bold;
     Font-size: 80px;
@@ -11,9 +11,21 @@ h1{
     box-align: Left;
     vertical-align: top;
 }
-.sus{
-    padding-left: 890px;
-    padding-right: 246px;
+.sustainer{
+    width: 144px;
+    height: 245px;
+}
+.globus{
+    display: flex;
+    flex-direction: row;
+}
+.claendar{
+    display: flex;
+    flex-direction: row;
+}
+.clock{
+    display: flex;
+    flex-direction: row;
 }
 b{
     font: Roboto;
@@ -28,6 +40,7 @@ b{
     margin-left: 410px;
     margin-bottom: 157px;
     margin-right: 54px;
+    border-radius: 15px;
 }
 h2{
     font-style: Roboto;
